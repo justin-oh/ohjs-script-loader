@@ -1,0 +1,6 @@
+{
+  "name": "script-loader-js",
+  "dependencies": {
+    "is-js": "git+ssh://git@github.com:justin-oh/is-js.git"
+  }
+}
