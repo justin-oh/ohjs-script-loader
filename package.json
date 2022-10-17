@@ -1,6 +1,7 @@
 {
   "name": "script-loader-js",
+  "version": "1.0.0",
   "dependencies": {
-    "is-js": "git+ssh://git@github.com:justin-oh/is-js.git"
+    "is-js": "justin-oh/is-js"
   }
 }
