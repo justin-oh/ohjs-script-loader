@@ -1,7 +1,7 @@
 import {
     isFunction,
     isString,
-} from './is.js';
+} from '../is-js/index.js';
 
 let map = {};
 
