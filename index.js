@@ -1,7 +1,7 @@
 import {
     isFunction,
     isString,
-} from 'ohjs-is';
+} from '../ohjs-is/index.js';
 
 let map = {};
 
