@@ -5,7 +5,7 @@ page can attempt to load the same script.
 Basic usage:
 
 ```js
-import scriptLoader from 'script-loader-js';
+import scriptLoader from 'ohjs-script-loader';
 
 await scriptLoader(
     'https://maps.googleapis.com/maps/api/js',
