@@ -1,8 +1,8 @@
 {
-  "name": "script-loader-js",
+  "name": "ohjs-script-loader",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "is-js": "justin-oh/is-js"
+    "is-js": "justin-oh/ohjs-is"
   }
 }
